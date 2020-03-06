@@ -1,0 +1,75 @@
+.gridLayout{
+    border: 1px solid black;
+    margin-top: 3%;
+}
+
+.gridHeader {
+  background-color: powderblue
+}
+
+table {
+    border-collapse: collapse;
+    width: 96%;
+    margin: 0% 2%;
+  }
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+tr td:hover {
+  background-color: #f5f5f5;
+}
+
+th {
+    height: 4em;
+}
+
+td video{
+  cursor: pointer;
+  height: 8.5em;
+  width: 9em;
+}
+
+td img{
+  cursor: pointer;
+  height: 5em;
+  width: 8em;
+}
+
+.tableStyle {
+    overflow-x:auto;
+}
+
+#gridModal {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  #gridModal:hover {
+    opacity: 0.93;
+  }
+
+@media only screen and (max-width: 800px) and (min-width: 500px){
+    tr {
+        font-size: small;
+    }
+  }
+
+  @media only screen and (max-width: 499px){
+    tr {
+        font-size: x-small;
+    }
+  }
+
+  @media only screen and (max-width: 600px){
+    td > video{
+      cursor: pointer;
+      height: 10.5em;
+      width: 16em;
+    }
+  }

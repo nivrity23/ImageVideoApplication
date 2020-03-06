@@ -1,0 +1,78 @@
+.carousel .thumb img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.carousel .slide img {
+    max-height: 300px;
+    width: 50%;
+}
+
+.carousel-container {
+    width: 65% !important;
+    margin: auto;
+}
+
+.category-heading {
+    background-color: powderblue;
+    margin-bottom: 2%;
+}
+
+.details {
+    float: right;
+    height: 50%;
+    width: 25%;
+    box-shadow:  0 1px 5px rgba(104, 104, 104, 0.8);
+}
+
+.caption {
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    background: rgb(93, 110, 110);
+    margin: 3%;
+    color: white;
+    border-radius: 10px;
+}
+  
+.carousel .control-arrow{ opacity: 1 !important; }
+
+.slide img {
+    height: 100%;
+    width: auto;
+}
+
+.carousel-container video {
+    object-fit: contain;
+    max-width: 65%;
+    min-width: 65%;
+    height:19em;
+  }
+
+@media only screen and (max-width: 900px) and (min-width: 601px) {
+    .carousel-container video{
+        height:16em;
+    }
+    .caption {
+        font-size: x-small;
+    }
+}
+
+
+@media only screen and (max-width: 720px) {
+    .caption {
+        font-size: xx-small;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel-container video{
+        height:12em;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .carousel-container video{
+        height:8em;
+    }
+}

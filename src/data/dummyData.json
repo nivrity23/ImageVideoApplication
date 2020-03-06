@@ -1,0 +1,167 @@
+[
+  {
+    "category": "Top performing creatives",
+    "data": [
+      {
+        "video_id": "df5e9056-8282-4832-b237-def7c6d5be50",
+        "created_at": "24/02/20 12:43",
+        "modified_at": "24/02/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/f333093da917d79ae47c4f557c9813d2.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 11:08:31_High-Visibility Clothing_239_ED7119-Blue",
+        "video_length": 60,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "917a9d48-c9e8-4e14-a6bd-8f6c3a7552e5",
+        "created_at": "25/02/20 12:43",
+        "modified_at": "25/02/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/f284c4f08e47647f6624c8696fe3e545.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 11:08:31_High-Visibility Clothing_239_EC1874-Black",
+        "video_length": 60,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "18ced7ee-fd9f-40f3-b1d0-0d0cd7817c25",
+        "created_at": "26/02/20 12:43",
+        "modified_at": "26/02/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/6ba6ddd67f96d11f554aa59531920666.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 11:08:30_High-Visibility Clothing_239_CD7791-PINK",
+        "video_length": 60,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "66e6a47e-c93a-42f2-a66f-540b2785dfe4",
+        "created_at": "27/02/20 12:43",
+        "modified_at": "27/02/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/e048f8604fd577a9cdae42ea40a70105.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 11:04:31_High-Visibility Clothing_239_ED7119-Blue",
+        "video_length": 60,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "e0e492e8-f26c-449c-8e38-184680b41471",
+        "created_at": "28/02/20 12:43",
+        "modified_at": "28/02/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/3725b2ca8c2ddbcfebf76e8000e5d905.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 11:04:31_High-Visibility Clothing_239_EC1874-Black",
+        "video_length": 60,
+        "resolution": "1080*720"
+      }
+    ]
+  },
+  {
+    "category": "High revenue creatives",
+    "data": [
+      {
+        "video_id": "13cfb6f7-8ee1-449c-a58a-86591a00ef5a",
+        "created_at": "29/02/20 12:43",
+        "modified_at": "29/02/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/6ba6ddd67f96d11f554aa59531920666.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 11:04:31_High-Visibility Clothing_239_CD7791-PINK",
+        "video_length": 30,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "bba74c6a-fef8-4bc9-95b8-28efe5d05231",
+        "created_at": "01/03/20 12:43",
+        "modified_at": "01/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/f284c4f08e47647f6624c8696fe3e545.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:57:48_Loafers & Slip-Ons__CK1-60190215-BLACK",
+        "video_length": 30,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "3b88cd39-f19c-4ce0-80b3-b62ce448d68f",
+        "created_at": "02/03/20 12:43",
+        "modified_at": "02/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/3725b2ca8c2ddbcfebf76e8000e5d905.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:57:48_Loafers & Slip-Ons__CK1-60580145-BLACK",
+        "video_length": 30,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "d69b5f7a-fb82-4b3b-8834-62ab95e93e9c",
+        "created_at": "03/03/20 12:43",
+        "modified_at": "03/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/f284c4f08e47647f6624c8696fe3e545.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:57:48_Loafers & Slip-Ons__CK1-90360317-MULTI",
+        "video_length": 30,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "59988966-171d-441e-84a3-ba8d5d40e64e",
+        "created_at": "04/03/20 12:43",
+        "modified_at": "04/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/3725b2ca8c2ddbcfebf76e8000e5d905.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:57:48_Loafers & Slip-Ons__CK1-71680023-DARK-BLUE",
+        "video_length": 30,
+        "resolution": "1080*720"
+      }
+    ]
+  },
+  {
+    "category": "Creatives by channel",
+    "data": [
+      {
+        "video_id": "7b26edb5-fa92-4c8b-bd27-90265775ef60",
+        "created_at": "05/03/20 12:43",
+        "modified_at": "05/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/7060ccf5db403105b311af4e952ad849.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:57:45_Loafers & Slip-Ons_229_1_My_ID_is_Gangnam_Beauty",
+        "video_length": 90,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "547ca796-4ac8-4d4f-acad-d96084be2f1c",
+        "created_at": "06/03/20 12:43",
+        "modified_at": "06/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/3725b2ca8c2ddbcfebf76e8000e5d905.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:46:31_Loafers & Slip-Ons__CK1-60190215-BLACK",
+        "video_length": 90,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "04906e0e-04c3-4f32-9383-16bbc69bde9c",
+        "created_at": "07/03/20 12:43",
+        "modified_at": "07/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/6ba6ddd67f96d11f554aa59531920666.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:46:31_Loafers & Slip-Ons__CK1-60580145-BLACK",
+        "video_length": 90,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "8665719a-085d-42ed-85a4-14c3eb9b895a",
+        "created_at": "08/03/20 12:43",
+        "modified_at": "08/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/f284c4f08e47647f6624c8696fe3e545.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:46:31_Loafers & Slip-Ons__CK1-90360317-MULTI",
+        "video_length": 90,
+        "resolution": "1080*720"
+      },
+      {
+        "video_id": "e3967b6c-5230-4aaa-b611-68eee15268bc",
+        "created_at": "09/03/20 12:43",
+        "modified_at": "09/03/20 12:43",
+        "video_url": "http://s3-us-west-2.amazonaws.com/content-creation-platform/job/f284c4f08e47647f6624c8696fe3e545.mp4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/vid.ai.images/1236c1dbaa2e7b0d13d32366f8ab36d3.png",
+        "video_name": "2020-01-27 10:46:31_Loafers & Slip-Ons__CK1-71680023-DARK-BLUE",
+        "video_length": 90,
+        "resolution": "1080*720"
+      }
+    ]
+  }
+]
